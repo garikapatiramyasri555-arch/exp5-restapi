@@ -34,3 +34,4 @@ To build a complete RESTful API using Node.js, Express.js and SQLite with CRUD o
 ```bash
 npm install
 npm start
+```
